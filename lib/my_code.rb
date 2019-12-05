@@ -1,4 +1,5 @@
 # Your Code Here
-def my_own_mapz(array)
+def map(array)
+  my_own_map =
   
 end 
