@@ -8,3 +8,7 @@ def map(array)
   end
   my_own_map
 end 
+
+
+def reduce
+end
